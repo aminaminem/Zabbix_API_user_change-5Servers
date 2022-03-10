@@ -1,7 +1,7 @@
 #!/bin/bash
-#This is a shell test for ZABBIX api user quarry from 5 servers by amin alizadeh @ 20220306
+#This is a shell test for ZABBIX api user delete from 5 servers by amin alizadeh @ 20220309
 #contact : aminaminem@gmail.com
-#the main idea is connect via API to ZABBIX frontends for user quarry/Search
+#the main idea is connect via API to ZABBIX frontends for user quarry/delete
 
 #Require repositories:
 #jq - commandline JSON processor 
